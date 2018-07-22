@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ldap-opa.iml" filepath="$PROJECT_DIR$/ldap-opa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ldap-opa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ldap-opa_main.iml" group="ldap-opa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ldap-opa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ldap-opa_test.iml" group="ldap-opa" />
+    </modules>
+  </component>
+</project>
